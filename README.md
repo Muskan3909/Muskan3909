@@ -94,16 +94,20 @@ Monitoring and alerting microservice
 <img src="https://raw.githubusercontent.com/Muskan3909/Muskan3909/output/github-contribution-grid-snake.svg">
 </p>
 
-# 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/muskan-kushwaha-4a11551ba/)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="mailto:kushwahamuskan97@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:kushwahamuskan97@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<a href="https://www.linkedin.com/in/muskan-kushwaha-4a11551ba/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-ssfw.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </p>
