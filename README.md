@@ -56,6 +56,21 @@ Backend Developer | Full Stack Engineer | DevOps Enthusiast
 
 
 ---
+# 🏆 Certifications
+
+<p align="center">
+
+<a href="https://www.credly.com/users/muskan-kushwaha">
+<img src="https://img.shields.io/badge/Google%20Cloud-19%20Badges-orange?style=for-the-badge&logo=googlecloud"/>
+</a>
+
+<a href="https://www.credly.com/users/muskan-kushwaha.9d028ef7">
+<img src="https://img.shields.io/badge/Generative%20AI-5%20Badges-blueviolet?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
 
 # 🚀 Featured Projects
 
