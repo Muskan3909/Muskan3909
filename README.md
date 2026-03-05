@@ -81,11 +81,11 @@ Monitoring and alerting microservice
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Muskan3909&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Muskan3909&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan3909&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan3909&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Muskan3909&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Muskan3909&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
