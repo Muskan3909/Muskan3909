@@ -23,7 +23,7 @@ Backend Developer | Full Stack Engineer | DevOps Enthusiast
 # 🖼 Profile
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Muskan3909/Muskan3909/main/profile.png" width="220" style="border-radius:50%">
+<img src="./profile.jpeg" width="180" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Backend Developer | Full Stack Engineer | DevOps Enthusiast
 ### 🤖 AI & Data
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-blueviolet?style=for-the-badge)
-![Google AI](https://img.shields.io/badge/Google%20AI-orange?style=for-the-badge)
+
 
 ---
 
@@ -76,37 +76,27 @@ Monitoring and alerting microservice
 
 ---
 
-# 📊 GitHub Stats
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muskan3909&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Muskan3909&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan3909&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan3909&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Muskan3909&layout=compact&theme=tokyonight"/>
 
 </p>
 
+
 ---
 
-# 🔥 GitHub Streak
+
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan3909&theme=tokyonight"/>
-
+<img src="https://raw.githubusercontent.com/Muskan3909/Muskan3909/output/github-contribution-grid-snake.svg">
 </p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-![snake gif](https://github.com/Muskan3909/Muskan3909/blob/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
 
 # 🌍 Connect With Me
 
